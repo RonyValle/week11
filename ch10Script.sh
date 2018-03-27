@@ -1,4 +1,3 @@
-
 #!/bin/sh
 #Rony Valle
 #Chapter10 Scrip
